@@ -1,1 +1,2 @@
-# DL_CNN_FlowerClassification
+# Flower Classfication with CNN
+We design and train a deep convolutional network from scratch to predict the class label of a flower image.
